@@ -21,7 +21,7 @@ const HeroSection = () => {
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-heading font-bold text-white mb-4">
             <span className="block">Aiah</span>
             <span className="text-gradient-secondary block text-3xl sm:text-4xl lg:text-5xl font-medium mt-2">
-              Porn • Boyish • Dancer • Model
+              Singer • Rapper • Dancer • Model
             </span>
           </h1>
           
